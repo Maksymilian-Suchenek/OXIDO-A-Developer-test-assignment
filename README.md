@@ -9,4 +9,4 @@ Jeżeli na urządzeniu jest ustawiona zmienna globalna/środowiskowa `OPENAI_API
 
 ---
 
-To repozytorium jest na moim poufnym konice GitHub, z danymi osobowymi. Posiadam drugie konto, na którym umieszczam projekty publicznie dostępne: 
+To repozytorium jest na moim poufnym konice GitHub, z danymi osobowymi. Posiadam drugie konto, na którym umieszczam projekty publicznie dostępne: https://github.com/just-richard-tbh - W razie jakby ktoś od Was chciał spojrzeć, co robię w wolnym czasie :)
